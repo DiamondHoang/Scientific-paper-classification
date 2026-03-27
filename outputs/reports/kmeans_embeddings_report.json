@@ -1,0 +1,45 @@
+{
+    "astro-ph": {
+        "precision": 0.9767441860465116,
+        "recall": 0.9655172413793104,
+        "f1-score": 0.9710982658959537,
+        "support": 87.0
+    },
+    "cond-mat": {
+        "precision": 0.803921568627451,
+        "recall": 0.8913043478260869,
+        "f1-score": 0.845360824742268,
+        "support": 46.0
+    },
+    "cs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+    },
+    "math": {
+        "precision": 0.6825396825396826,
+        "recall": 1.0,
+        "f1-score": 0.8113207547169812,
+        "support": 43.0
+    },
+    "physics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19.0
+    },
+    "accuracy": 0.84,
+    "macro avg": {
+        "precision": 0.49264108744272905,
+        "recall": 0.5713643178410794,
+        "f1-score": 0.5255559690710406,
+        "support": 200.0
+    },
+    "weighted avg": {
+        "precision": 0.756531713460578,
+        "recall": 0.84,
+        "f1-score": 0.7912946976196125,
+        "support": 200.0
+    }
+}

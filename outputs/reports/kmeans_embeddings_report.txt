@@ -1,0 +1,24 @@
+Classification Report - KMEANS (EMBEDDINGS)
+======================================================================
+
+Category        Precision    Recall       F1-Score     Support   
+----------------------------------------------------------------------
+astro-ph        0.9767       0.9655       0.9711       87        
+cond-mat        0.8039       0.8913       0.8454       46        
+cs              0.0000       0.0000       0.0000       5         
+math            0.6825       1.0000       0.8113       43        
+physics         0.0000       0.0000       0.0000       19        
+
+----------------------------------------------------------------------
+
+Accuracy: 0.8400
+
+Macro Average:
+  Precision: 0.4926
+  Recall:    0.5714
+  F1-Score:  0.5256
+
+Weighted Average:
+  Precision: 0.7565
+  Recall:    0.8400
+  F1-Score:  0.7913

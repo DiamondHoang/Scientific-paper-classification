@@ -1,0 +1,24 @@
+Classification Report - DECISION_TREE (TFIDF)
+======================================================================
+
+Category        Precision    Recall       F1-Score     Support   
+----------------------------------------------------------------------
+astro-ph        0.7391       0.7816       0.7598       87        
+cond-mat        0.4872       0.4130       0.4471       46        
+cs              0.0000       0.0000       0.0000       5         
+math            0.6042       0.6744       0.6374       43        
+physics         0.1765       0.1579       0.1667       19        
+
+----------------------------------------------------------------------
+
+Accuracy: 0.5950
+
+Macro Average:
+  Precision: 0.4014
+  Recall:    0.4054
+  F1-Score:  0.4022
+
+Weighted Average:
+  Precision: 0.5802
+  Recall:    0.5950
+  F1-Score:  0.5862

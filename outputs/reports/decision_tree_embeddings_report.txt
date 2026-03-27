@@ -1,0 +1,24 @@
+Classification Report - DECISION_TREE (EMBEDDINGS)
+======================================================================
+
+Category        Precision    Recall       F1-Score     Support   
+----------------------------------------------------------------------
+astro-ph        0.8022       0.8391       0.8202       87        
+cond-mat        0.6809       0.6957       0.6882       46        
+cs              0.0000       0.0000       0.0000       5         
+math            0.8421       0.7442       0.7901       43        
+physics         0.2857       0.3158       0.3000       19        
+
+----------------------------------------------------------------------
+
+Accuracy: 0.7150
+
+Macro Average:
+  Precision: 0.5222
+  Recall:    0.5189
+  F1-Score:  0.5197
+
+Weighted Average:
+  Precision: 0.7137
+  Recall:    0.7150
+  F1-Score:  0.7135
