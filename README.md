@@ -54,7 +54,7 @@ The script will:
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 | Model          | BoW Accuracy | TF-IDF Accuracy | Embeddings Accuracy |
 |----------------|--------------|-----------------|---------------------|
